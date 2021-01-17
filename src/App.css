@@ -467,7 +467,7 @@ button:disabled {
 }
 
 .heading-1{
-    margin: 15px;
+    margin: 15px 15px 0px 40px;
     font-weight: 800;
   }
 
@@ -547,4 +547,12 @@ button:disabled {
   .team-year{
     font-size: 25px;
   }
+}
+
+.heading-line{
+  width: 150px;
+  padding: 3px;
+  border-radius: 20px;
+  background: black;
+  margin-bottom: 50px;
 }
